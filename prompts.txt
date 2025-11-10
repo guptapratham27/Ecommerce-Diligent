@@ -1,0 +1,8 @@
+Hey I need to create a full stack e-commerce website from scratch.An e-commerce website that enables users to explore products , view products and manage a shopping cart . The site should have a clean ui, a light weight response . Tech stack:React js , React router, Node js , express js , Mongodb. PRovide me with a working code as well as how to implement the code in my ide. I Want a complete full stack website.
+
+I want you to write the frontend using tailwind instead.
+
+My front end is working fine , only that on loading the page it shows a "loading products" and then shows blank white space
+
+Give me all the commands for starting building backend for this project as per the code you gave me above
+
